@@ -1431,3 +1431,9 @@ navigating to "https://yqfk.dgut.edu.cn/main", waiting until "load"
 2021-11-19_10-29-57程序启动！
 2021-11-19_11-14-56程序启动！
 2021-11-19_12-18-16程序启动！
+2021-11-19_13-12-43程序启动！
+2021-11-19_13-13-19net::ERR_TIMED_OUT at https://yqfk.dgut.edu.cn/main
+=========================== logs ===========================
+navigating to "https://yqfk.dgut.edu.cn/main", waiting until "load"
+============================================================1
+2021-11-19_13-13-22邮件发送成功打卡异常！
