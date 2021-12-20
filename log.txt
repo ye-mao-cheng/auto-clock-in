@@ -2320,3 +2320,6 @@ navigating to "https://yqfk.dgut.edu.cn/main", waiting until "load"
 2021-12-21_01-23-42程序启动！
 2021-12-21_01-25-09list index out of range1
 2021-12-21_01-25-12邮件发送成功打卡异常！
+2021-12-21_02-17-52程序启动！
+2021-12-21_02-19-19list index out of range1
+2021-12-21_02-19-22邮件发送成功打卡异常！
