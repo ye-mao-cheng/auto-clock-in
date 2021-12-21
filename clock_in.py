@@ -67,7 +67,9 @@ def run(playwright: Playwright):
 
             # submit_button=page.query_selector ('.am-button')
             #点击提交按钮
-            page.click('.van-button__content')
+            # Click button:has-text("提交")
+            page.click("button:has-text(\"提交\")")
+            
 
             #重新加载
             page.reload()
