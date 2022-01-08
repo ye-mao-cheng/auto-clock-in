@@ -514,3 +514,9 @@ waiting for selector "text=居民身份证" to be visible
 navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 ============================================================1
 2022-01-08_13-10-21邮件发送成功打卡异常！
+2022-01-08_14-09-24程序启动！
+2022-01-08_14-09-50net::ERR_CONNECTION_TIMED_OUT at https://yqfk-daka.dgut.edu.cn/
+=========================== logs ===========================
+navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
+============================================================1
+2022-01-08_14-09-54邮件发送成功打卡异常！
