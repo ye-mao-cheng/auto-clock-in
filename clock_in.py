@@ -95,19 +95,19 @@ def run(playwright: Playwright):
             elif '未打卡' in message3:
                 #写入日志
                 #save_log("打卡失败！")
-                send_email.send_email(recipient,"打卡失败！","打卡失败！")
+                send_email.send_email(recipient,"打卡失败！","无法正常提交数据！")
             else:
                 #获取当前时间
                 date = datetime.datetime.now(pytz.timezone('PRC')).strftime("%Y-%m-%d_%H-%M-%S")
                 #异常情况截图并保存
                 page.screenshot(path='./screenshot/' + date + '.png')
-                send_email.send_email(recipient,"打卡失败！","打卡失败！",'./screenshot/' + date+ '.png')
+                send_email.send_email(recipient,"打卡失败！","提交数据出错！",'./screenshot/' + date+ '.png')
                 return False
         else:
             #异常截图
             date=datetime.datetime.now(pytz.timezone('PRC')).strftime("%Y-%m-%d_%H-%M-%S")
             page.screenshot(path='./screenshot/' + date + '.png')
-            send_email.send_email(recipient,"打卡失败！", "打卡异常！", './screenshot/' + date + '.png')
+            send_email.send_email(recipient,"打卡失败！", "未知异常！", './screenshot/' + date + '.png')
             return False
 
     except Exception as e:
