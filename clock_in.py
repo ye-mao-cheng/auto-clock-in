@@ -67,12 +67,15 @@ def run(playwright: Playwright):
 
             #等待关键信息的出现
             page.wait_for_selector("text=居民身份证", timeout=60000)
+            
+            #获取当前时间
+            date0 = datetime.datetime.now(pytz.timezone('PRC')).strftime("%Y-%m-%d_%H-%M-%S")
 
             # submit_button=page.query_selector ('.am-button')
             #点击提交按钮
             # Click button:has-text("提交")
             page.click("button:has-text(\"提交\")")
-            
+            page.screenshot(path='./screenshot/' + date0 + '.png')
 
             #重新加载
             page.reload()
@@ -90,12 +93,12 @@ def run(playwright: Playwright):
                 #写入日志
                 save_log("打卡成功！")
                 #发送邮件
-                send_email.send_email(recipient,"打卡成功！","打卡成功！")
+                send_email.send_email(recipient,"打卡成功！","数据提交成功！")
                 return True
             elif '未打卡' in message3:
                 #写入日志
                 #save_log("打卡失败！")
-                send_email.send_email(recipient,"打卡失败！","无法正常提交数据！")
+                send_email.send_email(recipient,"打卡失败！","无法正常提交数据！",'./screenshot/' + date0+ '.png')
             else:
                 #获取当前时间
                 date = datetime.datetime.now(pytz.timezone('PRC')).strftime("%Y-%m-%d_%H-%M-%S")
