@@ -67,6 +67,9 @@ def run(playwright: Playwright):
 
             #等待关键信息的出现
             page.wait_for_selector("text=居民身份证", timeout=60000)
+            page.wait_for_selector("text=学生用户", timeout=60000)
+            page.wait_for_selector("text=良好", timeout=60000)
+            page.wait_for_selector("text=否", timeout=60000)
             
             #获取当前时间
             date0 = datetime.datetime.now(pytz.timezone('PRC')).strftime("%Y-%m-%d_%H-%M-%S")
@@ -82,6 +85,9 @@ def run(playwright: Playwright):
 
             # 等待关键信息的出现
             page.wait_for_selector("text=居民身份证", timeout=60000)
+            page.wait_for_selector("text=学生用户", timeout=60000)
+            page.wait_for_selector("text=良好", timeout=60000)
+            page.wait_for_selector("text=否", timeout=60000)
 
             #获取关键信息
             remind2=page.query_selector_all('.van-grid-item')
