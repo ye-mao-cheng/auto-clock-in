@@ -888,3 +888,9 @@ waiting for navigation until 'load'
 waiting for navigation until 'load'
 ============================================================1
 2022-07-05_07-25-27邮件发送成功打卡异常！
+2022-07-05_10-25-04程序启动！
+2022-07-05_10-26-30net::ERR_TIMED_OUT at https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html
+=========================== logs ===========================
+navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html", waiting until "load"
+============================================================1
+2022-07-05_10-26-32邮件发送成功打卡异常！
