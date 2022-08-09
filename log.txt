@@ -1851,3 +1851,6 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 2022-08-09_21-54-10程序启动！
 2022-08-09_22-26-52程序启动！
 2022-08-09_23-29-54程序启动！
+2022-08-10_00-35-58程序启动！
+2022-08-10_00-37-28打卡成功！
+2022-08-10_00-37-30Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MIDCzFxD/3z/QbojFp2Oi17JjTH8D6guZpacJdLOv3y3VpnNp5eNNn2oyCAh5la5vQ== IP: 20.66.25.150]')
