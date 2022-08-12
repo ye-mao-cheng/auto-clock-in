@@ -1940,3 +1940,6 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 2022-08-13_01-31-15Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MOPNVL07WYNbvG9d1z/xHAnfMccIIQwSTd5BHXxM6Qi2UE8KFVv3/K1yN5+6fRY/wA== IP: 20.228.236.245]')
 2022-08-13_02-31-10程序启动！
 2022-08-13_02-31-57Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MKgwwQCQZF+IiB9DTk+SfWR3zRnzt8XwKX6OKJv8Ky4xhvVp9lzFxFZKzy3cWCBmAQ== IP: 20.228.166.9]')
+2022-08-13_03-20-59程序启动！
+2022-08-13_03-21-40打卡成功！
+2022-08-13_03-21-42Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MANrtdyqAJV4GI8m/6K8g+XHk7U4gOcQ1EOvHu0EO86+JIcM/B57oOpnCv/umLZvBA== IP: 40.77.107.197]')
