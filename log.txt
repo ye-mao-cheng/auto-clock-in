@@ -2007,3 +2007,4 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 2022-08-15_13-41-09程序启动！
 2022-08-15_13-41-47您今天已打卡成功！已连续打卡23天！
 2022-08-15_13-41-50Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [ML9H4MjsOFeklnbGp2KpVNLa+/pAd/GyVC7Qa1m/yi0nSINP+D9sn/AEM2Ssxa0Tlw== IP: 52.188.5.74]')
+2022-08-15_14-34-22程序启动！
