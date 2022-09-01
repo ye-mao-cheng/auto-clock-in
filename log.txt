@@ -2479,3 +2479,9 @@ waiting for selector "text=居民身份证" to be visible
 2022-09-02_00-37-19邮件发送成功无法正常提交数据！
 2022-09-02_01-29-56程序启动！
 2022-09-02_01-30-35邮件发送成功无法正常提交数据！
+2022-09-02_02-35-38程序启动！
+2022-09-02_02-36-14net::ERR_CONNECTION_TIMED_OUT at https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html
+=========================== logs ===========================
+navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html", waiting until "load"
+============================================================1
+2022-09-02_02-36-17邮件发送成功打卡异常！
