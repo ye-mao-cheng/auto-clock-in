@@ -2639,3 +2639,9 @@ navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/
 2022-09-08_06-26-51Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MIHRH4/KxSQ2wpa9dpMOYLPlSKGBAzioyoeWFeK8RFbhsHXvuQYcWQaeIlKSeR2nlg== IP: 52.186.25.54]')
 2022-09-08_07-32-25程序启动！
 2022-09-08_07-33-00Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MCDtczGLIyqq98MbtXmTEm8txgNzRiMAZ4BlAFB+llBidK51PE982R0kv1p7WisbwA== IP: 52.170.74.214]')
+2022-09-08_10-47-22程序启动！
+2022-09-08_10-48-50Timeout 30000.0ms exceeded.
+=========================== logs ===========================
+waiting for navigation until 'load'
+============================================================1
+2022-09-08_10-48-57Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MBHdkenrZ5jI1FE6EPfK4gHREFSE8UkM5LwcwpDghBO3nNqBlNoXUhnJbwu6ePXoaA== IP: 20.115.10.47]')
