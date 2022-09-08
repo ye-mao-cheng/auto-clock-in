@@ -2645,3 +2645,6 @@ navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/
 waiting for navigation until 'load'
 ============================================================1
 2022-09-08_10-48-57Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MBHdkenrZ5jI1FE6EPfK4gHREFSE8UkM5LwcwpDghBO3nNqBlNoXUhnJbwu6ePXoaA== IP: 20.115.10.47]')
+2022-09-08_12-44-51程序启动！
+2022-09-08_12-45-14您今天已打卡成功！已连续打卡47天！
+2022-09-08_12-45-16Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MNxG1AYl4AsrzedVC9hsI1UFcCSa2Weft4rHdekpyjZj17FmaLaUPQ39qZw8zSDfTg== IP: 20.66.52.133]')
