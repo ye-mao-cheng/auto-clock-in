@@ -2886,3 +2886,9 @@ waiting for navigation until 'load'
 waiting for selector "text=良好" to be visible
 ============================================================1
 2022-09-18_00-39-51Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MPhbA0y9XpMm84U7UDSZ0iNxcJFz1jfL7+6p3e0nFdx1DHR33eb3cW0Cad5cB9CGIg== IP: 20.65.102.158]')
+2022-09-18_01-30-00程序启动！
+2022-09-18_01-31-23Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for selector "text=良好" to be visible
+============================================================1
+2022-09-18_01-31-26Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MPhbA0y9XpMm84U7UDSZ0iOTf4WE584ytm0aVDOFDikxQ4dQ1JPV1eNAP3F1nR/1KQ== IP: 20.245.77.165]')
