@@ -2992,3 +2992,6 @@ waiting for selector "text=良好" to be visible
 waiting for selector "text=良好" to be visible
 ============================================================1
 2022-09-19_07-31-17Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MHa0SKJTsM6Ek5yz2l8YR7OQAnSB+92NJ/traOJp6G9qkD3okMlm+nyDj00M1yb6HA== IP: 20.163.162.101]')
+2022-09-19_10-54-20程序启动！
+2022-09-19_10-54-47您今天已打卡成功！已连续打卡58天！
+2022-09-19_10-54-49Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [ML5HGkCdTjfnhAF4eIUTESFe3EXxGhWuLDATBfzr1fcxMX6+QfJ3p581cFnES/84Sw== IP: 20.228.94.51]')
