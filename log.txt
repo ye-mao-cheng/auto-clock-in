@@ -2995,3 +2995,6 @@ waiting for selector "text=良好" to be visible
 2022-09-19_10-54-20程序启动！
 2022-09-19_10-54-47您今天已打卡成功！已连续打卡58天！
 2022-09-19_10-54-49Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [ML5HGkCdTjfnhAF4eIUTESFe3EXxGhWuLDATBfzr1fcxMX6+QfJ3p581cFnES/84Sw== IP: 20.228.94.51]')
+2022-09-19_13-00-35程序启动！
+2022-09-19_13-01-11您今天已打卡成功！已连续打卡58天！
+2022-09-19_13-01-13Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MBU7vN+nTWw9d2FEgtoLsR/w7SakfoBaBivYajGy2PBHOluhr6OBKJ//E0bdhkV/Ig== IP: 20.127.94.81]')
