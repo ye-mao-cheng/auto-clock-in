@@ -5888,3 +5888,9 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2022-10-17_13-43-52Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MG7+1mxlBb66K/UfEBCAKZp1Xw9s2CD2B5z5nAwqOEJATsOHpkMhicBikOZhpDudNg== IP: 20.119.66.155]')
+2022-10-17_15-01-24程序启动！
+2022-10-17_15-02-14Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2022-10-17_15-02-18Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MDJ3n9zVdx9fpmo0PmHzZ2BKU513piPIQB1sZEnvabtcVNdEmD0p8KMZHPF6KGtrGA== IP: 20.114.219.64]')
