@@ -6992,3 +6992,9 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 waiting for selector "text=居民身份证" to be visible
 ============================================================1
 2022-10-26_22-34-41Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MJdYOkiWA/yq/O6mTVUkRS0tMJA+WQ/QNr8iWaEe57By17Rh89C7bY4LvvtLKKC7NA== IP: 20.161.14.145]')
+2022-10-26_23-29-42程序启动！
+2022-10-26_23-31-02Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for selector "text=居民身份证" to be visible
+============================================================1
+2022-10-26_23-31-07Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MNdWGE7kG2mGTV5KJvynMu28h9u4uy3rSQyz6WSxxmK6nNWznVzytez/Bt1HU/A33w== IP: 20.9.65.99]')
