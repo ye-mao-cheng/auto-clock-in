@@ -10568,3 +10568,9 @@ waiting for selector "[placeholder="请输入中央认证账号"]"
 waiting for selector "text=居民身份证" to be visible
 ============================================================1
 2022-11-23_14-30-44Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MFfqtTzzkAy/gUTWDE/HlDSBbl3krZscb5WoT8rGgZhbQs1Y938Qazw/L3Gkj+sNuw== IP: 20.163.134.13]')
+2022-11-23_15-20-57程序启动！
+2022-11-23_15-21-11net::ERR_CONNECTION_RESET at https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html
+=========================== logs ===========================
+navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html", waiting until "load"
+============================================================1
+2022-11-23_15-21-15Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MOFYoyguHuWKXaVkLJKGWEJavy57UWL3Z5nHos6J0gsLw6KRaqnCKlq2AwMab+k9eA== IP: 172.174.98.74]')
