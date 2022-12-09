@@ -13251,3 +13251,9 @@ waiting for selector "[placeholder="请输入中央认证账号"]"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2022-12-09_16-28-49Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MOo2r+PKW6wHq/hFCwvFQL1GrTsqB9U7S17TfirwB+GTBjZbGFAk647XuliwNnvObg== IP: 20.110.49.234]')
+2022-12-09_17-21-18程序启动！
+2022-12-09_17-22-12Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2022-12-09_17-22-16Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MOo2r+PKW6wHq/hFCwvFQL1NJf+n87P+b/cuvBl3/C5eTKScJVqmBhS3KgeIfHYXww== IP: 23.98.177.193]')
