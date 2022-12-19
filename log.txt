@@ -14637,3 +14637,9 @@ waiting for selector "text=居民身份证" to be visible
 waiting for selector "text=居民身份证" to be visible
 ============================================================1
 2022-12-19_17-22-21Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MHk9zN4xQ4HxPk5feO54hxhX0i2o2PgMt5JDqZLJP/W/nbgMhO860Gsn1bBN3IM4XA== IP: 13.84.52.201]')
+2022-12-19_18-25-09程序启动！
+2022-12-19_18-26-28Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for selector "text=居民身份证" to be visible
+============================================================1
+2022-12-19_18-26-35Error: 无法发送邮件(550, b'Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 [MHk9zN4xQ4HxPk5feO54hxhVirCKakk27QGQ1gSjxi+vYrr7NGZ+us69JkoAZ1VY+g== IP: 40.77.45.130]')
