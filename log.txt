@@ -22035,3 +22035,9 @@ waiting for selector "text=居民身份证" to be visible
 navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 ============================================================1
 2023-02-11_09-42-54Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2023-02-11_10-45-30程序启动！
+2023-02-11_10-46-55Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for selector "text=居民身份证" to be visible
+============================================================1
+2023-02-11_10-46-57Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
