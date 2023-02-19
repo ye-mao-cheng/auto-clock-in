@@ -23223,3 +23223,9 @@ waiting for selector "text=居民身份证" to be visible
 waiting for selector "text=居民身份证" to be visible
 ============================================================1
 2023-02-19_23-22-22Error: 无法发送邮件(503, b'Error: need EHLO and AUTH first !', 'cheng8136623@qq.com')
+2023-02-20_00-28-13程序启动！
+2023-02-20_00-29-39Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for selector "text=居民身份证" to be visible
+============================================================1
+2023-02-20_00-29-41Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
