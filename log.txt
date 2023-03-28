@@ -28281,3 +28281,9 @@ waiting for selector "[placeholder="请输入中央认证账号"]"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2023-03-29_01-21-05Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2023-03-29_02-25-55程序启动！
+2023-03-29_02-26-44Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2023-03-29_02-31-01Error: 无法发送邮件Connection unexpectedly closed: [WinError 10054] An existing connection was forcibly closed by the remote host
