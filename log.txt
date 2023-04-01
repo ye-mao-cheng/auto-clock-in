@@ -28785,3 +28785,9 @@ waiting for selector "[placeholder="请输入中央认证账号"]"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2023-04-01_19-16-08Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2023-04-01_20-34-39程序启动！
+2023-04-01_20-35-30Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2023-04-01_20-35-32Error: 无法发送邮件(535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
