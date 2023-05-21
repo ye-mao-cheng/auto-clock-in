@@ -35637,3 +35637,9 @@ waiting for selector "[placeholder="请输入中央认证账号"]"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2023-05-21_17-17-59Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+2023-05-21_18-19-06程序启动！
+2023-05-21_18-19-54Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2023-05-21_18-19-57Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
