@@ -37071,3 +37071,9 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 waiting for selector "[placeholder="请输入中央认证账号"]"
 ============================================================1
 2023-06-01_03-15-53Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+2023-06-01_04-19-49程序启动！
+2023-06-01_04-20-35Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for selector "[placeholder="请输入中央认证账号"]"
+============================================================1
+2023-06-01_04-20-37Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
