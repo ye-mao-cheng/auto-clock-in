@@ -43803,3 +43803,9 @@ navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
 navigating to "https://cas.dgut.edu.cn/home/Oauth/getToken/appid/yqfkdaka/state/%2Fhome.html", waiting until "load"
 ============================================================1
 2023-07-21_05-17-12Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+2023-07-21_06-18-20程序启动！
+2023-07-21_06-18-48net::ERR_CONNECTION_TIMED_OUT at https://yqfk-daka.dgut.edu.cn/
+=========================== logs ===========================
+navigating to "https://yqfk-daka.dgut.edu.cn/", waiting until "load"
+============================================================1
+2023-07-21_06-18-51Error: 无法发送邮件(550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
